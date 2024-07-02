@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0cbIgne9IEE=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Uni Projects\\ImageSearch\\ImageSearch\\ImageSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nati9\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\nati9\\.nuget\\packages\\system.drawing.common\\8.0.6\\system.drawing.common.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
