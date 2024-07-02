@@ -4,10 +4,10 @@ C# console application locating nested images within a larger image using multit
 
 App inputs
 ----------
-* 1st argument: 'image1' the names of the full image
-* 2nd argument: 'image2' the name of the nested image 
-* Number of threads: the number of threads to find the nested image (1 or greater)
-* Choosen algorithm: find the nested image using either 'exact' match or 'euclidean' match
+* args[0]: 'image1' the names of the full image
+* args[1]: 'image2' the name of the nested image 
+* args[2]s: the number of threads to find the nested image (1 or greater)
+* args[3]: find the nested image using either 'exact' match or 'euclidean' match
 
 Accepted image formats: jpg, gif, png
 
